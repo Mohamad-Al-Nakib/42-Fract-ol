@@ -31,7 +31,7 @@ Compilation Instructions
 1. Clone this repository: `git clone https://github.com/Mohamad-Al-Nakib/Fract-ol.git`
 2. Navigate to the project directory: `cd Fract-ol`
 3. Compile the code using the following command: `make`
-4. Run : './fractol (Choose The Fractal by Name or Number)'
+4. Run : `./fractol (Choose The Fractal by Name or Number)`
 
 **Author**
 ---------
